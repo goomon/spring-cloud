@@ -1,1 +1,3 @@
 rootProject.name = 'cloud'
+include 'user-service'
+include 'cloud-server'
