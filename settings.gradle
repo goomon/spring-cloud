@@ -1,3 +1,5 @@
 rootProject.name = 'cloud'
-include 'user-service'
+include 'user-service-1'
+include 'user-service-2'
 include 'cloud-server'
+include 'apigw'
